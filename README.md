@@ -4,10 +4,10 @@ This is dataset is released as a part of hackathon conducted by Analytics vidhya
 
 Random Forest Classification algorithm performed
 
-ROC_AUC Score : 0.8739446876161228
-accuracy_score is  : 0.8737717634890536
-precision score is : 0.8554516102326352
-recall is          : 0.8972733588051407
+ROC_AUC Score : 0.8739446876161228 / 
+accuracy_score is  : 0.8737717634890536 / 
+precision score is : 0.8554516102326352 / 
+recall is          : 0.8972733588051407 / 
 F1_score is        : 0.8758635304089849
 
 Dataset of 50,000 observations. 
