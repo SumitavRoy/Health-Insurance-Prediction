@@ -22,4 +22,4 @@ Now the company needs your help in building a model to predict whether the perso
 
 Demographics (city, age, region etc.)
 Information regarding holding policies of the customer
-Recommended Policy Information
+Recommended Policy Information.
